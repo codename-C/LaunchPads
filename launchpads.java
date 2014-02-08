@@ -1,3 +1,6 @@
+//Credit to codename_B for source files. Edited and updated by codename_C ;) .
+
+
 package com.mooo.GuildHub;
 
 import java.util.ArrayList;
